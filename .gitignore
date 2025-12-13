@@ -13,6 +13,22 @@ __pycache__/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Machine Learning Models & Data
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.pb
+*.tflite
+*.keras
+datasets/
+data/
+models/
+checkpoints/
+**/daynight-classifier-*/
+
 # IDE
 .vscode/
 .idea/
